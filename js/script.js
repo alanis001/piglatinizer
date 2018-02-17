@@ -14,8 +14,8 @@ $("button").click(function(){
     
 
 
-function ay(text){
-    var newWord = text[0]
+function ay(){
+    var newWord = text[0];
 	return newWord + " ay ";
 }
 

@@ -1,1 +1,39 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size:70px;
+    text-align:center;
+    }
 
+p {
+    text-align:center;
+    }
+
+input {
+    text-align:center;
+    padding: 5px 39px;
+    font-family: 'Raleway', sans-serif;
+    font-size:13px;
+    color:black; 
+    }
+
+div {
+    text-align:center;
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    }
+
+button {
+    cursor: pointer;
+    background-color: #04B486;
+    border:none;
+    color: white;
+    padding: 6px 22px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    }
+body {
+       background-image: url("http://www.gsfdcy.com/data/img/66/1894926-photography-wallpaper.jpg");
+       background-color: #cccccc;
+    }
